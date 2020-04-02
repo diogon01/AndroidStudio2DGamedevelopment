@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="magenta">#A63CB8</color>
+    <color name="player">#A1140F</color>
+    <color name="enemy">#237BC1</color>
+    <color name="spell">#FF9800</color>
+    <color name="healthBarBorder">#958D8D</color>
+    <color name="healthBarHealth">#4CAF50</color>
+    <color name="gameOver">#6A1009</color>
+</resources>
